@@ -39,19 +39,19 @@ DB_DATABASE=VOTRE_DB_NAME_DE_TEST
 
 ## Setup
 
-`npm i -g @adonisjs/cli`
+`$ npm i -g @adonisjs/cli`
 
-`npm install`
+`$ npm install`
 
-`adonis migration:run`
+`$ adonis migration:run`
 
 ## Start
 
-`adonis serve dev`
+`$ adonis serve dev`
 
 ## Test
 
-`adonis test`
+`$ adonis test`
 
 ---
 
