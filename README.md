@@ -1,4 +1,4 @@
-# Atelier initiation AdonisJS per [Etienne Rouzeaud](https://medium.com/@etiennerouzeaud/)
+# Atelier initiation AdonisJS par [Etienne Rouzeaud](https://medium.com/@etiennerouzeaud/)
 
 ## Pré-requis (Database)
 
