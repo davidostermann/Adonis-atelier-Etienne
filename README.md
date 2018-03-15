@@ -43,6 +43,8 @@ DB_DATABASE=VOTRE_DB_NAME_DE_TEST
 
 `npm install`
 
+`adonis migration:run`
+
 ## Start
 
 `adonis serve dev`
